@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32630.194
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FilterAddin", "FilterAddin.csproj", "{A7EDC24D-9693-4D35-971D-9A13C63B9762}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "FilterAddinSetup", "..\FilterAddinSetup\FilterAddinSetup.vdproj", "{FCE60016-6123-4232-A93A-68793FE59D21}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x86 = Debug|x86
+		Release|Any CPU = Release|Any CPU
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A7EDC24D-9693-4D35-971D-9A13C63B9762}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A7EDC24D-9693-4D35-971D-9A13C63B9762}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A7EDC24D-9693-4D35-971D-9A13C63B9762}.Debug|x86.ActiveCfg = Debug|x86
+		{A7EDC24D-9693-4D35-971D-9A13C63B9762}.Debug|x86.Build.0 = Debug|x86
+		{A7EDC24D-9693-4D35-971D-9A13C63B9762}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A7EDC24D-9693-4D35-971D-9A13C63B9762}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A7EDC24D-9693-4D35-971D-9A13C63B9762}.Release|x86.ActiveCfg = Release|x86
+		{A7EDC24D-9693-4D35-971D-9A13C63B9762}.Release|x86.Build.0 = Release|x86
+		{FCE60016-6123-4232-A93A-68793FE59D21}.Debug|Any CPU.ActiveCfg = Debug
+		{FCE60016-6123-4232-A93A-68793FE59D21}.Debug|x86.ActiveCfg = Debug
+		{FCE60016-6123-4232-A93A-68793FE59D21}.Release|Any CPU.ActiveCfg = Release
+		{FCE60016-6123-4232-A93A-68793FE59D21}.Release|x86.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5224A618-1D4F-4BF9-AC3B-D90A19B98ECB}
+	EndGlobalSection
+EndGlobal
